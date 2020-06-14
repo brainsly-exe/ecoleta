@@ -1,6 +1,6 @@
 <img src="https://github.com/Amorim-79/ecoleta/blob/master/screenshots/Capa.jpg" width=1000px height=450px/>
 
-### Aplicação desenvolvida durante a Next Level Week 1.0, utilizando ReactJS para a aplicação Web, ReactNative para a aplicação mobile e NodeJS para o backend da aplicação.
+### Aplicação desenvolvida durante a Next Level Week 1.0, utilizando Typescript, ReactJS para a aplicação Web, ReactNative para a aplicação mobile e NodeJS para o backend da aplicação.
 
 <br />
 
